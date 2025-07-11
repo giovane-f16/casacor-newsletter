@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Camada_1" data-name="Camada 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 70 70">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: .75px;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <path id="Caminho_953" data-name="Caminho 953" class="cls-2" d="M41.94,26.6h-13.88c-2.72,0-4.93,2.21-4.93,4.93t0,0v6.94c0,2.72,2.21,4.93,4.93,4.93h13.88c2.72,0,4.93-2.21,4.93-4.93v-6.94c0-2.72-2.21-4.93-4.93-4.93h0ZM38.6,35.34l-6.49,3.1c-.12.06-.28.02-.34-.11-.02-.04-.03-.08-.03-.13v-6.39c0-.14.1-.26.24-.26.05,0,.09,0,.13.03l6.49,3.29c.13.06.18.21.12.34-.03.06-.07.1-.13.13Z"/>
+  <circle class="cls-1" cx="35" cy="35" r="19.14"/>
+</svg>
